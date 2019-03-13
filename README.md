@@ -1,4 +1,4 @@
 # basic_python
 
-` run the code pyCharm` 
+` run the code pyCharm IDE` 
  
